@@ -57,7 +57,7 @@ from holehe.modules.social_media.snapchat import snapchat
 
 
 async def main():
-    email = "test@gmail.com"
+    email = "dagorankita@gmail.com"
     out = []
     client = httpx.AsyncClient()
 
